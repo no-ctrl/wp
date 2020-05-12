@@ -12,7 +12,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "fibers": "^5.0.0",
-    "jquery": "^1.12.4",
+    "jquery": "^3.5.0",
     "moment": "^2.25.3",
     "monochroma": "^0.1.5",
     "node-sass": "^4.14.1",
